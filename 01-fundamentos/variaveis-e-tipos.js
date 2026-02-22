@@ -1,6 +1,4 @@
 /*
-    O que são Variáveis?
-
     Variáveis são espaços na memória usados para armazenar valores que podem ser utilizados e manipulados ao longo do programa.
     Podemos declarar variáveis usando:
 
